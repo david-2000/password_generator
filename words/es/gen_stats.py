@@ -12,7 +12,7 @@ def main():
     t = 0
     for f,s in arr:
         t+=s
-    print("FileName\t# of Words\tPercent of Total")
+    print("File\t# Words\tPercent of Total")
     for f,s in arr:
         p = s/t
         print(f"{f}\t{s}\t{p}")
