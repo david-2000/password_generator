@@ -1,14 +1,12 @@
 #!/bin/env python3
 import os
-
-def file_len(filename):
-    return len([0 for i in open(filename)])
+import argparse
 
 def main():
     arr = []
-    for f in os.listdir():
+    for f in os.listdir(""):
         if f[0] == 'L':
-            arr.append((f,file_len(f)))
+            arr.append((f,len(f.readlines()))
     t = 0
     for f,s in arr:
         t+=s
