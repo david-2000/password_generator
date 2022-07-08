@@ -1,6 +1,5 @@
 ababa
 abaca
-abaca
 aback
 abaco
 abada
@@ -19,7 +18,6 @@ abase
 abash
 abasi
 abata
-abate
 abate
 abati
 abato
@@ -43,7 +41,6 @@ abino
 abiso
 abita
 abite
-abito
 abito
 aboba
 abobe
@@ -88,7 +85,6 @@ abura
 abure
 aburo
 abusa
-abuse
 abuse
 abuso
 abuza
@@ -178,7 +174,6 @@ actea
 acted
 actin
 actor
-actor
 actua
 actue
 actum
@@ -237,12 +232,9 @@ adjuc
 admit
 adoba
 adobe
-adobe
-adobo
 adobo
 adopt
 adora
-adore
 adore
 adorn
 adoro
@@ -322,7 +314,6 @@ afono
 afoot
 afora
 afore
-afore
 aforo
 afosa
 afose
@@ -344,10 +335,8 @@ agana
 agane
 agano
 agape
-agape
 agata
 agate
-agave
 agave
 agaze
 agent
@@ -362,12 +351,10 @@ agjus
 aglet
 aglow
 agnus
-agnus
 agola
 agole
 agolo
 agony
-agora
 agora
 agore
 agoro
@@ -440,7 +427,6 @@ aires
 airon
 aisla
 aisle
-aisle
 aislo
 aitch
 aiunt
@@ -496,7 +482,6 @@ alala
 alalo
 alama
 alamo
-alamo
 alano
 alarm
 alate
@@ -509,12 +494,9 @@ albeo
 albin
 albor
 album
-album
 albur
 alcea
-alcea
 alcen
-alces
 alces
 alcor
 aldea
@@ -560,16 +542,13 @@ alget
 algid
 algin
 algol
-algol
 algun
 alhoz
 alian
 aliar
 alias
-alias
 alibi
 alica
-alien
 alien
 alier
 alies
@@ -614,7 +593,6 @@ alobo
 aloca
 aloco
 aloes
-aloes
 aloft
 alogy
 aloha
@@ -632,7 +610,6 @@ along
 aloof
 alora
 alosa
-alosa
 alota
 alote
 aloto
@@ -640,7 +617,6 @@ aloud
 aloya
 alpes
 alpha
-altar
 altar
 altea
 altee
@@ -652,7 +628,6 @@ aluda
 alude
 aludi
 aludo
-alula
 alula
 aluna
 alune
@@ -692,11 +667,9 @@ amber
 ambit
 ambla
 amble
-amble
 amblo
 ambon
 ambos
-ameba
 ameba
 ameer
 ameis
@@ -716,11 +689,8 @@ amida
 amide
 amiga
 amigo
-amigo
 amina
 amine
-amine
-amino
 amino
 amiri
 amish
@@ -729,7 +699,6 @@ amito
 amity
 amman
 amnis
-amole
 amole
 amolo
 amomo
@@ -786,7 +755,6 @@ andas
 andel
 anden
 andes
-andes
 andon
 anean
 anear
@@ -811,7 +779,6 @@ anexe
 anexo
 angas
 angel
-angel
 anger
 angle
 anglo
@@ -825,22 +792,16 @@ anidi
 anido
 anila
 anile
-anile
 anilo
 anima
-anima
-anime
 anime
 animi
-animo
 animo
 anina
 anine
 anino
 anion
-anion
 anisa
-anise
 anise
 aniso
 anito
@@ -896,7 +857,6 @@ aojas
 aojen
 aojes
 aonio
-aorta
 aorta
 aotus
 aovan
@@ -955,7 +915,6 @@ apite
 apito
 apium
 apnea
-apnea
 apoca
 apoce
 apoco
@@ -979,7 +938,6 @@ apple
 apply
 appro
 apres
-apres
 april
 aproa
 aproe
@@ -999,12 +957,10 @@ aqaba
 aquel
 aqueo
 araba
-araba
 arabe
 arabi
 arabo
 arada
-arado
 arado
 arais
 arana
@@ -1012,13 +968,11 @@ arane
 arano
 arara
 arare
-arare
 arasa
 arase
 arawn
 araza
 arbol
-arbor
 arbor
 arcan
 arcar
@@ -1034,7 +988,6 @@ arcus
 ardan
 ardas
 ardea
-ardea
 ardeb
 arden
 arder
@@ -1045,22 +998,18 @@ ardid
 ardil
 ardio
 ardor
-ardor
 arduo
 areal
 areas
-areca
 areca
 areis
 arela
 arele
 arelo
 arena
-arena
 arene
 areno
 arepa
-arete
 arete
 arfan
 arfar
@@ -1074,12 +1023,8 @@ argen
 argil
 argol
 argon
-argon
-argos
 argos
 argot
-argot
-argue
 argue
 argus
 arhat
@@ -1087,7 +1032,6 @@ arica
 arico
 arido
 ariel
-aries
 aries
 arije
 arijo
@@ -1115,7 +1059,6 @@ arnes
 aroca
 aroid
 aroma
-aroma
 arome
 aromo
 arose
@@ -1128,7 +1071,6 @@ arpes
 arpia
 arpon
 arque
-arras
 arras
 array
 arraz
@@ -1197,7 +1139,6 @@ ashen
 ashes
 ashur
 asian
-asian
 asias
 asica
 asico
@@ -1227,11 +1168,9 @@ aspas
 aspea
 aspee
 aspen
-aspen
 aspeo
 asper
 aspes
-aspic
 aspic
 aspid
 aspro
@@ -1242,7 +1181,6 @@ asses
 asset
 assur
 aster
-aster
 astil
 astir
 astra
@@ -1252,7 +1190,6 @@ asuma
 asume
 asumi
 asumo
-asura
 asura
 asure
 asuro
@@ -1266,7 +1203,6 @@ atado
 atais
 ataja
 ataje
-atajo
 atajo
 atana
 atane
@@ -1307,7 +1243,6 @@ atipo
 atiza
 atizo
 atlas
-atlas
 atoan
 atoar
 atoas
@@ -1319,7 +1254,6 @@ atoes
 atoja
 atoje
 atojo
-atole
 atole
 atoll
 atomo
@@ -1355,11 +1289,9 @@ atuvo
 audaz
 auden
 audio
-audio
 audit
 auger
 aught
-augur
 augur
 aulla
 aulle
@@ -1402,14 +1334,12 @@ avast
 avati
 avece
 avena
-avena
 avene
 aveno
 avens
 avert
 aveza
 avezo
-avian
 avian
 aviar
 avias
@@ -1422,7 +1352,6 @@ avino
 avion
 avisa
 avise
-aviso
 aviso
 aviva
 avive
@@ -1440,7 +1369,6 @@ award
 aware
 awful
 awned
-axial
 axial
 axila
 axile
@@ -1491,7 +1419,6 @@ azore
 azoro
 azota
 azote
-azote
 azoto
 aztec
 aztor
@@ -1531,7 +1458,6 @@ bakua
 balan
 balar
 balas
-balas
 balea
 balee
 balen
@@ -1539,7 +1465,6 @@ baleo
 bales
 balky
 balla
-balle
 balle
 ballo
 balls
@@ -1586,8 +1511,6 @@ basin
 basis
 basso
 basta
-basta
-baste
 baste
 basto
 batan
@@ -1601,7 +1524,6 @@ batia
 batik
 batio
 batir
-batis
 batis
 baton
 batta
@@ -1736,7 +1658,6 @@ bitch
 biten
 biter
 bites
-bites
 bitis
 biton
 bitty
@@ -1845,7 +1766,6 @@ boned
 bonen
 boner
 bones
-bones
 bongo
 bonis
 bonne
@@ -1908,13 +1828,11 @@ boxer
 boxes
 boyan
 boyar
-boyar
 boyas
 boyen
 boyes
 boyne
 braca
-brace
 brace
 braco
 bract
@@ -1950,11 +1868,9 @@ breed
 brett
 breva
 breve
-breve
 brevo
 breza
 brezo
-brian
 brian
 briar
 brias
@@ -1981,7 +1897,6 @@ brojo
 broke
 broma
 brome
-brome
 bromo
 bronx
 brood
@@ -1991,7 +1906,6 @@ broth
 brown
 brows
 brrok
-bruce
 bruce
 bruin
 bruit
@@ -2014,7 +1928,6 @@ buela
 buelo
 buena
 buene
-bueno
 bueno
 buffo
 buggy
@@ -2055,7 +1968,6 @@ burra
 burre
 burri
 burro
-burro
 bursa
 burst
 busan
@@ -2094,7 +2006,6 @@ cable
 cacao
 cacha
 cache
-cache
 cachi
 cacho
 cacia
@@ -2125,7 +2036,6 @@ calde
 caldo
 calia
 calla
-calla
 calle
 callo
 calls
@@ -2135,7 +2045,6 @@ calve
 calyx
 caman
 camar
-camas
 camas
 camel
 camen
@@ -2154,7 +2063,6 @@ canoe
 canon
 canst
 canto
-canto
 canty
 caper
 capit
@@ -2172,7 +2080,6 @@ caree
 caren
 careo
 cares
-cares
 caret
 carex
 cargo
@@ -2183,7 +2090,6 @@ carol
 carom
 carpe
 carra
-carre
 carre
 carro
 carry
@@ -2202,7 +2108,6 @@ catas
 catch
 caten
 cater
-cates
 cates
 catty
 cauda
@@ -2230,7 +2135,6 @@ cecho
 cecum
 cedan
 cedar
-cedar
 cedas
 ceden
 cedes
@@ -2249,7 +2153,6 @@ censa
 cense
 censo
 cento
-cento
 cepan
 cepar
 cepas
@@ -2261,12 +2164,10 @@ cepto
 ceran
 cerar
 ceras
-ceras
 cerbo
 cerca
 cerco
 ceren
-ceres
 ceres
 ceria
 ceric
@@ -2297,7 +2198,6 @@ champ
 chant
 chaos
 chaps
-chara
 chara
 chard
 chare
@@ -2336,11 +2236,8 @@ chili
 chill
 chime
 china
-china
-chine
 chine
 chink
-chino
 chino
 chios
 chips
@@ -2425,7 +2322,6 @@ clank
 clara
 clare
 claro
-claro
 clary
 clash
 clasp
@@ -2509,7 +2405,6 @@ colar
 colas
 colen
 coles
-coles
 colgo
 colic
 colla
@@ -2521,8 +2416,6 @@ colza
 comae
 comba
 combe
-combe
-combo
 combo
 comer
 comes
@@ -2556,7 +2449,6 @@ copen
 coper
 copes
 copia
-copia
 copie
 copio
 copla
@@ -2580,7 +2472,6 @@ cores
 corgi
 corne
 corno
-corno
 cornu
 corps
 corra
@@ -2591,7 +2482,6 @@ corse
 corso
 corta
 corte
-corto
 corto
 corva
 corve
@@ -2604,7 +2494,6 @@ cosas
 cosen
 coses
 cosey
-costa
 costa
 coste
 costo
@@ -2811,7 +2700,6 @@ damar
 damas
 damen
 dames
-dames
 damon
 danae
 dance
@@ -2889,7 +2777,6 @@ denia
 denim
 densa
 dense
-dense
 denso
 dents
 depee
@@ -2939,7 +2826,6 @@ dicis
 dicky
 dicot
 dicta
-dicto
 dicto
 dictu
 dieis
@@ -3062,7 +2948,6 @@ doyen
 dozen
 dphil
 draba
-draba
 draco
 drado
 draff
@@ -3147,7 +3032,6 @@ dulan
 dular
 dulas
 dulce
-dulce
 dulci
 dulen
 dules
@@ -3181,7 +3065,6 @@ duren
 dures
 durga
 duria
-durio
 durio
 durir
 duris
@@ -3342,9 +3225,7 @@ exude
 exult
 faber
 fable
-fable
 faced
-facer
 facer
 faces
 facet
@@ -3380,7 +3261,6 @@ famas
 famed
 famen
 fames
-fames
 fanan
 fanar
 fanas
@@ -3403,7 +3283,6 @@ fatar
 fatas
 fated
 faten
-fates
 fates
 fatso
 fatta
@@ -3461,7 +3340,6 @@ ferir
 feroe
 ferra
 ferre
-ferre
 ferro
 ferry
 fesse
@@ -3497,12 +3375,10 @@ fight
 fijar
 filan
 filar
-filar
 filas
 filch
 filen
 filer
-files
 files
 filia
 filie
@@ -3528,7 +3404,6 @@ fines
 finis
 fiord
 fires
-firma
 firma
 firme
 firmo
@@ -3580,7 +3455,6 @@ floje
 flojo
 flood
 floor
-flora
 flora
 flore
 floro
@@ -3741,7 +3615,6 @@ fumar
 fumas
 fumed
 fumen
-fumes
 fumes
 fumid
 funds
@@ -3906,7 +3779,6 @@ gnome
 gobia
 gobie
 gobio
-gobio
 godly
 gogia
 going
@@ -3951,17 +3823,13 @@ gourd
 gouty
 govia
 grace
-grace
 grada
 grade
-grade
-grado
 grado
 grafo
 graft
 grail
 grain
-grama
 grama
 grame
 gramo
@@ -3975,7 +3843,6 @@ grass
 grata
 grate
 grava
-grave
 grave
 gravo
 gravy
@@ -4000,7 +3867,6 @@ greza
 grian
 griar
 grias
-grias
 griaz
 grids
 grief
@@ -4015,7 +3881,6 @@ grind
 grion
 griot
 gripa
-gripe
 gripe
 gripo
 grips
@@ -4040,7 +3905,6 @@ grown
 gruel
 gruff
 gruma
-grume
 grume
 grumo
 grump
@@ -4183,7 +4047,6 @@ heath
 heave
 heavy
 hecha
-hecha
 heche
 hecho
 hedge
@@ -4230,7 +4093,6 @@ hijes
 hiker
 hilan
 hilar
-hilar
 hilas
 hilen
 hiles
@@ -4255,7 +4117,6 @@ hoard
 hoary
 hobby
 hocus
-hogan
 hogan
 hogar
 hogas
@@ -4339,7 +4200,6 @@ huffy
 hulks
 hulky
 human
-human
 humar
 humas
 humen
@@ -4412,7 +4272,6 @@ inapt
 incur
 incus
 index
-india
 india
 indic
 indie
@@ -4619,16 +4478,13 @@ jumes
 jumps
 junco
 junta
-junta
 junte
-junto
 junto
 jural
 jurat
 juris
 juror
 justa
-juste
 juste
 justo
 jutty
@@ -4762,7 +4618,6 @@ ladro
 ladys
 lafia
 lagan
-lagan
 lagar
 lagas
 lager
@@ -4783,11 +4638,9 @@ lamin
 lamna
 lampa
 lampe
-lampe
 lampo
 lamud
 lanai
-lance
 lance
 lands
 lanky
@@ -4803,7 +4656,6 @@ larde
 lares
 larga
 large
-largo
 largo
 laria
 larid
@@ -4887,7 +4739,6 @@ leare
 learl
 learn
 lease
-lease
 leash
 least
 leave
@@ -4902,7 +4753,6 @@ leeds
 leeis
 leery
 legal
-legal
 legan
 legar
 legas
@@ -4910,7 +4760,6 @@ legem
 leges
 leggy
 legis
-legon
 legon
 legra
 legre
@@ -4928,7 +4777,6 @@ lelas
 lelen
 leles
 leman
-leman
 lemma
 lemna
 lemon
@@ -4936,11 +4784,8 @@ lemur
 lends
 lenin
 lente
-lente
-lento
 lento
 leona
-leone
 leone
 leono
 lepas
@@ -4966,7 +4811,6 @@ leudo
 levee
 level
 lever
-levin
 levin
 lexia
 lexis
@@ -5030,7 +4874,6 @@ ligan
 ligar
 ligas
 liger
-liger
 light
 ligne
 ligno
@@ -5063,14 +4906,11 @@ linde
 lindo
 lindy
 linea
-linea
 lined
 linee
 linen
-linen
 lineo
 liner
-lines
 lines
 lingo
 lioli
@@ -5115,7 +4955,6 @@ llama
 llana
 llane
 llano
-llano
 llega
 llego
 llora
@@ -5147,7 +4986,6 @@ loamy
 loasa
 loath
 loban
-lobar
 lobar
 lobas
 lobby
@@ -5233,21 +5071,6 @@ lpino
 lquez
 lrota
 lsine
-ltana
-ltano
-ltean
-ltear
-lteas
-lteen
-ltees
-lteno
-ltera
-ltere
-ltero
-lteza
-ltiro
-ltivo
-ltura
 lubia
 lucan
 lucen
@@ -5358,7 +5181,6 @@ mahoe
 maidu
 maina
 maine
-maine
 maino
 major
 maker
@@ -5398,7 +5220,6 @@ manee
 manen
 maneo
 manes
-manes
 manet
 mange
 mango
@@ -5411,10 +5232,8 @@ manna
 manor
 mansa
 manse
-manse
 mansi
 manso
-manta
 manta
 mante
 manto
@@ -5433,10 +5252,8 @@ mardi
 marek
 maren
 mares
-mares
 marga
 margo
-maria
 maria
 marks
 maron
@@ -5520,7 +5337,6 @@ meles
 melga
 melgo
 melia
-melia
 melic
 mella
 melle
@@ -5528,7 +5344,6 @@ mello
 melon
 memor
 memos
-mente
 mente
 mento
 meran
@@ -5618,7 +5433,6 @@ mnium
 moble
 moblo
 mocha
-mocha
 moche
 mocho
 modal
@@ -5631,7 +5445,6 @@ mogul
 moire
 moist
 mokes
-molar
 molar
 molas
 molda
@@ -5648,7 +5461,6 @@ molva
 momus
 monad
 monal
-monal
 monan
 monas
 monde
@@ -5658,7 +5470,6 @@ money
 mongo
 monio
 monta
-monte
 monte
 month
 monto
@@ -5672,7 +5483,6 @@ moped
 mopsy
 mopus
 moral
-moral
 moray
 morbo
 morca
@@ -5682,7 +5492,6 @@ mores
 morfo
 morio
 mormo
-morra
 morra
 morre
 morro
@@ -5710,8 +5519,6 @@ mousy
 mouth
 moved
 mover
-mover
-moves
 moves
 movia
 movie
@@ -5795,7 +5602,6 @@ murky
 muros
 murra
 murre
-murre
 murro
 murus
 musca
@@ -5834,7 +5640,6 @@ nadeo
 nades
 nadia
 nadio
-nadir
 nadir
 nadis
 nadon
@@ -6047,7 +5852,6 @@ nintu
 niobe
 nisal
 nisan
-nisan
 nisar
 nisas
 nisen
@@ -6082,7 +5886,6 @@ noles
 nolle
 nomad
 nomia
-nomia
 nonce
 nones
 nonny
@@ -6097,7 +5900,6 @@ noras
 noren
 nores
 noria
-noria
 norma
 north
 norza
@@ -6109,7 +5911,6 @@ notas
 notch
 noted
 noten
-notes
 notes
 notre
 novel
@@ -6293,7 +6094,6 @@ ozone
 paced
 pacem
 pacer
-pacer
 paces
 pacha
 pache
@@ -6304,7 +6104,6 @@ padre
 padua
 paean
 paena
-pagan
 pagan
 pagar
 pagas
@@ -6359,7 +6158,6 @@ paren
 pareo
 parer
 pares
-pares
 parir
 paris
 parit
@@ -6373,24 +6171,19 @@ parry
 parse
 parta
 parte
-parte
 parti
 parto
 parts
 party
 parus
 parva
-parva
 parve
-parvo
 parvo
 pasch
 pasha
 passe
 passu
 pasta
-pasta
-paste
 paste
 pasto
 pasty
@@ -6475,7 +6268,6 @@ pepsi
 peran
 perar
 peras
-peras
 perca
 perch
 perde
@@ -6520,7 +6312,6 @@ piado
 piana
 piane
 piano
-piano
 pical
 picea
 pichi
@@ -6539,7 +6330,6 @@ pilas
 pilea
 pilen
 piles
-piles
 pilon
 pilot
 pilus
@@ -6552,7 +6342,6 @@ pines
 pinna
 pinon
 pinot
-pinto
 pinto
 pinus
 pioja
@@ -6568,7 +6357,6 @@ pipas
 piped
 pipen
 piper
-pipes
 pipes
 pipit
 pipra
@@ -6590,7 +6378,6 @@ pixel
 pizza
 placa
 place
-place
 placi
 placo
 plage
@@ -6598,7 +6385,6 @@ plaid
 plain
 plait
 plana
-plane
 plane
 plank
 plano
@@ -6610,7 +6396,6 @@ plato
 platy
 playa
 plays
-plaza
 plaza
 plazo
 plead
@@ -6664,10 +6449,8 @@ pokey
 polak
 polan
 polar
-polar
 polas
 polen
-poles
 poles
 polio
 polka
@@ -6679,7 +6462,6 @@ ponen
 poner
 pones
 ponga
-pongo
 pongo
 ponia
 pooch
@@ -6693,7 +6475,6 @@ porco
 porgy
 poria
 porta
-porte
 porte
 porto
 posan
@@ -6758,7 +6539,6 @@ prize
 proan
 proar
 proas
-probe
 probe
 probo
 proem
@@ -7177,7 +6957,6 @@ roger
 rogue
 rolls
 roman
-roman
 romar
 romas
 romen
@@ -7351,7 +7130,6 @@ runas
 runen
 runer
 runes
-runes
 runic
 runon
 rural
@@ -7404,7 +7182,6 @@ salsa
 salta
 salte
 salto
-salto
 salts
 saltu
 salty
@@ -7431,7 +7208,6 @@ sapit
 sapor
 sappy
 saque
-saran
 saran
 saras
 sarda
@@ -7534,7 +7310,6 @@ seche
 secho
 sects
 sedan
-sedan
 sedar
 sedas
 seden
@@ -7557,7 +7332,6 @@ seine
 seize
 selan
 selar
-selar
 selas
 selen
 seles
@@ -7573,7 +7347,6 @@ senor
 sense
 senso
 sente
-sente
 senti
 sento
 seoul
@@ -7584,7 +7357,6 @@ sequi
 serac
 serer
 serge
-seria
 seria
 serie
 serif
@@ -7702,7 +7474,6 @@ sigil
 sigma
 signa
 signe
-signo
 signo
 signs
 sigyn
@@ -7863,14 +7634,11 @@ sofia
 softy
 soggy
 solan
-solan
-solar
 solar
 solas
 solda
 solde
 soldo
-solea
 solea
 soled
 solee
@@ -7889,7 +7657,6 @@ somas
 somen
 somes
 somme
-sonar
 sonar
 sonas
 sonda
@@ -7931,7 +7698,6 @@ spake
 spank
 spara
 spare
-spare
 spark
 spase
 spasm
@@ -7951,7 +7717,6 @@ spend
 spent
 sperm
 spero
-spero
 spial
 spica
 spice
@@ -7967,8 +7732,6 @@ spine
 spiny
 spira
 spire
-spire
-spiro
 spiro
 spirt
 spite
@@ -8215,7 +7978,6 @@ tabes
 tabid
 tabla
 table
-table
 tablo
 taboe
 taboo
@@ -8297,7 +8059,6 @@ taree
 taren
 tareo
 tares
-tares
 tarfe
 taria
 taron
@@ -8307,7 +8068,6 @@ tasca
 tasco
 tasen
 tases
-taste
 taste
 tasty
 tatar
@@ -8370,12 +8130,10 @@ tenor
 tense
 tenta
 tente
-tente
 tenth
 tento
 tents
 tenua
-tenue
 tenue
 tenuo
 tenus
@@ -8390,8 +8148,6 @@ terir
 teris
 terms
 terra
-terra
-terre
 terre
 terro
 terry
@@ -8403,8 +8159,6 @@ tesen
 teses
 tesla
 testa
-testa
-teste
 teste
 testo
 testy
@@ -8476,7 +8230,6 @@ tices
 tidal
 tides
 tiene
-tiene
 tiesa
 tiese
 tieso
@@ -8484,7 +8237,6 @@ tifle
 tiger
 tight
 tilda
-tilde
 tilde
 tildo
 tiled
@@ -8505,7 +8257,6 @@ tinct
 tinea
 tinen
 tines
-tinge
 tinge
 tingi
 tinja
@@ -8572,7 +8323,6 @@ tolon
 tombe
 tomir
 tommy
-tonal
 tonal
 tonar
 tonda
@@ -8644,7 +8394,6 @@ trajo
 tramp
 trans
 trapa
-trapa
 trape
 trapo
 traps
@@ -8689,7 +8438,6 @@ trone
 trono
 troop
 tropa
-trope
 trope
 tropo
 troth
@@ -8917,7 +8665,6 @@ valmy
 valor
 valua
 value
-value
 valuo
 valve
 vance
@@ -8943,7 +8690,6 @@ vegan
 vehis
 veins
 velar
-velar
 veldt
 velis
 velit
@@ -8957,7 +8703,6 @@ venes
 venga
 vengo
 venia
-venir
 venir
 venis
 venit
@@ -8978,7 +8723,6 @@ verpa
 verre
 versa
 verse
-verso
 verso
 verst
 verte
@@ -9004,7 +8748,6 @@ viare
 viase
 vibes
 vicar
-vicia
 vicia
 vicie
 vicio
@@ -9051,7 +8794,6 @@ vispa
 vispe
 vispo
 vista
-vista
 viste
 visto
 visum
@@ -9072,7 +8814,6 @@ vivre
 vixen
 vixit
 vizla
-vizor
 vizor
 vobis
 vocal

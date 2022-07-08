@@ -218,7 +218,6 @@ abducido
 abducira
 abducire
 abductor
-abductor
 abdujera
 abdujere
 abdujese
@@ -451,7 +450,6 @@ abogueis
 aboideau
 aboiteau
 abolengo
-abolengo
 aboliais
 aboliera
 aboliere
@@ -618,7 +616,6 @@ abrasare
 abrasase
 abraseis
 abrasion
-abrasion
 abrasive
 abrasivo
 abravece
@@ -749,7 +746,6 @@ absolute
 absoluto
 absolved
 absolver
-absolver
 absolves
 absolvia
 absolvio
@@ -759,7 +755,6 @@ absorban
 absorbas
 absorbed
 absorben
-absorber
 absorber
 absorbes
 absorbia
@@ -775,7 +770,6 @@ abstenes
 abstenga
 abstengo
 abstenia
-absterge
 absterge
 abstergi
 absterja
@@ -955,7 +949,6 @@ acacheta
 acachete
 acacheto
 acaciano
-academia
 academia
 academic
 academio
@@ -1541,13 +1534,10 @@ acicatea
 acicatee
 acicateo
 acicular
-acicular
 acidalio
 acidaque
 acidemia
-acidemia
 acidioso
-acidosis
 acidosis
 acidotic
 acidulan
@@ -2045,7 +2035,6 @@ acrodont
 acromado
 acromial
 acromion
-acromion
 acronico
 acronimo
 acropora
@@ -2345,7 +2334,6 @@ adememos
 ademprio
 ademptum
 adenitis
-adenitis
 adensaba
 adensado
 adensais
@@ -2382,7 +2370,6 @@ adherido
 adhering
 adherira
 adherire
-adhesion
 adhesion
 adhesive
 adhesivo
@@ -2531,7 +2518,6 @@ adoquine
 adoquino
 adoraban
 adorabas
-adorable
 adorable
 adorably
 adorador
@@ -2749,7 +2735,6 @@ aduriras
 aduriria
 aduriste
 adurmais
-adustion
 adustion
 adustivo
 adutaque
@@ -3378,7 +3363,6 @@ agenesia
 agenesis
 agential
 agentive
-agerasia
 agerasia
 ageratum
 agermana
@@ -5222,7 +5206,6 @@ alomorfo
 alongado
 alopatia
 alopecia
-alopecia
 alopecic
 alopiado
 alopicia
@@ -5399,7 +5382,6 @@ aluzasen
 aluzases
 aluzaste
 alveario
-alveolar
 alveolar
 alveolus
 alverjon
@@ -5731,7 +5713,6 @@ amblemos
 ambliope
 ambrolla
 ambrosia
-ambrosia
 ambuesta
 ambulaba
 ambulado
@@ -5898,7 +5879,6 @@ amistare
 amistase
 amisteis
 amistoso
-amitosis
 amitosis
 amitotic
 ammobium
@@ -6320,7 +6300,6 @@ anabolic
 anacanto
 anacardo
 anaconda
-anaconda
 anacrusa
 anadamos
 anadeaba
@@ -6375,7 +6354,6 @@ anaphora
 anapsida
 anarchic
 anarquia
-anasarca
 anasarca
 anascote
 anaspida
@@ -6561,7 +6539,6 @@ anfipodo
 anfiscio
 anfotero
 angelica
-angelica
 angelice
 angelico
 angelino
@@ -6588,9 +6565,7 @@ angosten
 angostes
 angrecum
 angstrom
-angstrom
 anguidae
-anguilla
 anguilla
 angulaba
 angulado
@@ -6687,7 +6662,6 @@ anilleis
 animaban
 animabas
 animador
-animalia
 animalia
 animamos
 animando
@@ -6805,7 +6779,6 @@ anorases
 anoraste
 anoremos
 anorexia
-anorexia
 anorexic
 anotaban
 anotabas
@@ -6871,7 +6844,6 @@ antecojo
 antecoro
 antedata
 antedate
-antedate
 antedato
 antefija
 antefoso
@@ -6892,7 +6864,6 @@ antepast
 antepone
 antepuse
 antepuso
-anterior
 anterior
 anteroom
 antesala
@@ -6930,7 +6901,6 @@ antiguar
 antihero
 antilles
 antilogy
-antilope
 antilope
 antimony
 antimuon
@@ -7837,7 +7807,6 @@ apostase
 apostasy
 apostata
 apostate
-apostate
 apostato
 aposteis
 apostema
@@ -8190,7 +8159,6 @@ araucano
 arbellon
 arbequin
 arbitral
-arbitral
 arbitran
 arbitrar
 arbitras
@@ -8246,7 +8214,6 @@ archivan
 archivar
 archivas
 archiven
-archives
 archives
 archlute
 arcillan
@@ -8325,7 +8292,6 @@ arenaran
 arenaras
 arenaren
 arenares
-arenaria
 arenaria
 arenaron
 arenasen
@@ -8613,7 +8579,6 @@ arrasara
 arrasare
 arrasase
 arraseis
-arrastra
 arrastra
 arrastre
 arrastro
@@ -8986,7 +8951,6 @@ artanica
 artanita
 artemisa
 arterial
-arterial
 arteries
 artesano
 artesian
@@ -9000,10 +8964,8 @@ articles
 articula
 articule
 articulo
-articulo
 artifact
 artifara
-artifice
 artifice
 artigaba
 artigado
@@ -9038,7 +9000,6 @@ arunasen
 arunases
 arunaste
 arunemos
-aruspice
 aruspice
 aruspicy
 arvejana
@@ -9530,7 +9491,6 @@ aspergen
 aspergeo
 asperger
 asperges
-asperges
 aspergia
 aspergio
 asperity
@@ -9648,7 +9608,6 @@ asumiras
 asumiria
 asumiste
 asunceno
-asuncion
 asuncion
 asuntaba
 asuntado
@@ -9825,7 +9784,6 @@ ataramos
 ataranta
 atarante
 ataranto
-ataraxia
 ataraxia
 atarazan
 atarazar
@@ -10577,7 +10535,6 @@ aureolen
 aureoles
 aureolin
 auricula
-auricula
 auriense
 aurifero
 auriform
@@ -10615,7 +10572,6 @@ autofoco
 autogamy
 autogeno
 autogiro
-autogiro
 autolote
 automata
 autonomo
@@ -10630,7 +10586,6 @@ autostop
 autotomy
 autotype
 autrigon
-autumnal
 autumnal
 auvergne
 auxilian
@@ -10804,7 +10759,6 @@ averiguo
 averment
 averrhoa
 aversion
-aversion
 aversive
 averting
 avestico
@@ -10851,7 +10805,6 @@ avientan
 avientas
 avienten
 avientes
-avifauna
 avifauna
 avigoran
 avigorar
@@ -10950,7 +10903,6 @@ avowedly
 avucasta
 avuguero
 avulsion
-avulsion
 avutarda
 awakened
 awayness
@@ -10980,7 +10932,6 @@ ayudador
 ayudamos
 ayudando
 ayudanta
-ayudante
 ayudante
 ayudaran
 ayudaras
@@ -11572,8 +11523,6 @@ barrajas
 barrajen
 barrajes
 barranca
-barranca
-barranco
 barranco
 barraque
 barrater
@@ -13803,7 +13752,6 @@ cercaras
 cercaren
 cercares
 cercaria
-cercaria
 cercaron
 cercasen
 cercases
@@ -14815,7 +14763,6 @@ combaste
 combemos
 combined
 comedian
-comedian
 comedias
 comedido
 comedira
@@ -15622,7 +15569,6 @@ cullicas
 cullique
 culpable
 cultivar
-cultural
 cultural
 culturan
 culturar
@@ -16437,7 +16383,6 @@ dockside
 dockyard
 doctoral
 doctrina
-doctrine
 doctrine
 doctrino
 document
@@ -17811,7 +17756,6 @@ fishpond
 fistolar
 fistulan
 fistular
-fistular
 fistulas
 fistulen
 fistules
@@ -18454,7 +18398,6 @@ gangling
 ganglion
 gangrena
 gangrene
-gangrene
 gangreno
 gangster
 ganoidei
@@ -18881,7 +18824,6 @@ gracillo
 gracious
 gradaban
 gradabas
-gradable
 gradable
 gradador
 gradamos
@@ -22120,64 +22062,6 @@ lquitira
 lquitran
 lrededor
 lsaciano
-ltabaque
-ltamente
-ltaneria
-ltaricon
-lteabais
-ltearais
-lteareis
-ltearian
-ltearias
-lteaseis
-lteraban
-lterabas
-lterable
-lterador
-lteramos
-lterando
-lterante
-lteraran
-lteraras
-lteraren
-lterares
-lteraria
-lteraron
-lterasen
-lterases
-lteraste
-ltercaba
-ltercado
-ltercais
-ltercara
-ltercare
-ltercase
-lteremos
-lteridad
-lternaba
-lternado
-lternais
-lternara
-lternare
-lternase
-lterneis
-lterquen
-lterques
-ltilocuo
-ltimetro
-ltipampa
-ltiplano
-ltiricon
-ltivecen
-ltivecer
-ltiveces
-ltivecia
-ltivecio
-ltivezca
-ltivezco
-ltividad
-ltruismo
-ltruista
 lubberly
 luchaban
 luchabas
@@ -22653,7 +22537,6 @@ mantelet
 mantemos
 mantidae
 mantilla
-mantilla
 mantille
 mantillo
 mantinea
@@ -22754,7 +22637,6 @@ marinaba
 marinade
 marinado
 marinais
-marinara
 marinara
 marinare
 marinase
@@ -25926,7 +25808,6 @@ penstock
 pentacle
 pentagon
 penumbra
-penumbra
 penumbre
 penumbro
 penuscan
@@ -26366,7 +26247,6 @@ pituteis
 pizzeria
 placaban
 placabas
-placable
 placable
 placador
 placamos
@@ -30032,7 +29912,6 @@ socalled
 sociaban
 sociabas
 sociable
-sociable
 sociably
 socially
 sociamos
@@ -31286,7 +31165,6 @@ temperen
 temperes
 temperet
 template
-temporal
 temporal
 temporis
 tempting

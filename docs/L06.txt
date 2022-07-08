@@ -49,13 +49,11 @@ abatia
 abatio
 abatir
 abatis
-abatis
 abazon
 abbacy
 abbess
 abdica
 abdico
-abduce
 abduce
 abduct
 abduje
@@ -103,7 +101,6 @@ abites
 abiton
 abject
 abjura
-abjure
 abjure
 abjuro
 abkari
@@ -155,7 +152,6 @@ abonen
 abones
 aboque
 aborad
-aboral
 aboral
 aborda
 aborde
@@ -228,7 +224,6 @@ abuena
 abuene
 abueno
 abulia
-abulia
 abulic
 abulon
 abulta
@@ -266,7 +261,6 @@ acabes
 acacha
 acache
 acacho
-acacia
 acacia
 acadia
 acadio
@@ -308,7 +302,6 @@ acates
 acaule
 acceda
 accede
-accede
 accedi
 accedo
 accent
@@ -335,7 +328,6 @@ acedes
 acedia
 aceifa
 aceita
-aceite
 aceite
 aceito
 acelga
@@ -366,7 +358,6 @@ acerva
 acerve
 acervo
 acetal
-acetal
 acetar
 acetic
 acetin
@@ -392,7 +383,6 @@ achina
 achine
 aching
 achino
-achira
 achira
 achiva
 achive
@@ -539,10 +529,8 @@ action
 actium
 activa
 active
-active
 activo
 actriz
-actual
 actual
 actuan
 actuar
@@ -574,7 +562,6 @@ aculeo
 acules
 aculla
 acumen
-acumen
 acunan
 acunar
 acunas
@@ -590,7 +577,6 @@ acusas
 acusen
 acuses
 acuson
-adagio
 adagio
 adagua
 adague
@@ -666,7 +652,6 @@ adjust
 admass
 admira
 admire
-admire
 admiro
 admita
 admite
@@ -687,7 +672,6 @@ adobio
 adonde
 adonic
 adonio
-adonis
 adonis
 adopta
 adopte
@@ -992,7 +976,6 @@ agarro
 ageism
 agency
 agenda
-agenda
 agente
 agents
 aghast
@@ -1020,7 +1003,6 @@ agoles
 agolpa
 agolpe
 agolpo
-agonal
 agonal
 agonia
 agonus
@@ -1204,7 +1186,6 @@ ahuses
 aiding
 aijada
 aikido
-aikido
 ailing
 aimara
 aindia
@@ -1332,7 +1313,6 @@ alajor
 alalau
 alalay
 alalia
-alalia
 alamar
 alamin
 alampa
@@ -1359,7 +1339,6 @@ alated
 alates
 alaton
 alauda
-alauda
 alaves
 alazan
 alazor
@@ -1375,7 +1354,6 @@ albean
 albear
 albeas
 albedo
-albedo
 albeen
 albees
 albeit
@@ -1383,11 +1361,9 @@ albero
 albert
 albina
 albino
-albino
 albita
 albite
 albuca
-albugo
 albugo
 albula
 albura
@@ -1397,7 +1373,6 @@ alcaid
 alcali
 alcana
 alcano
-alcedo
 alcedo
 alceis
 alcino
@@ -1512,9 +1487,7 @@ alicer
 alieis
 aliena
 aliene
-aliene
 alieni
-alieno
 alieno
 aligan
 aligar
@@ -1551,7 +1524,6 @@ alisar
 alisas
 alisen
 alises
-alisma
 alisma
 alista
 aliste
@@ -1649,7 +1621,6 @@ alotas
 aloten
 alotes
 alpaca
-alpaca
 alpine
 alpino
 alquez
@@ -1665,7 +1636,6 @@ alteas
 alteen
 altees
 alteno
-altera
 altera
 alterd
 altere
@@ -1789,7 +1759,6 @@ amauta
 amazed
 amazon
 ambigu
-ambigu
 ambito
 amblan
 amblar
@@ -1809,7 +1778,6 @@ amelar
 amelas
 amelga
 amelgo
-amelia
 amelia
 amella
 amelle
@@ -1876,7 +1844,6 @@ amonta
 amonte
 amonto
 amoral
-amoral
 amorca
 amorco
 amoret
@@ -1898,7 +1865,6 @@ amparo
 ampaya
 ampaye
 ampayo
-ampere
 ampere
 amplia
 amplie
@@ -1971,7 +1937,6 @@ anafre
 analco
 analog
 ananas
-ananas
 ananay
 anarco
 anares
@@ -1987,7 +1952,6 @@ anchoa
 anchoe
 anchoo
 anchor
-anchor
 ancien
 ancila
 anclan
@@ -1995,7 +1959,6 @@ anclar
 anclas
 anclen
 ancles
-ancora
 ancora
 ancore
 ancoro
@@ -2051,7 +2014,6 @@ anejez
 anejir
 aneldo
 anemia
-anemia
 anemic
 aneota
 anergy
@@ -2068,13 +2030,11 @@ angaro
 angazo
 angels
 angina
-angina
 angled
 angler
 angles
 angoja
 angola
-angora
 angora
 anguis
 angula
@@ -2109,7 +2069,6 @@ aniles
 anilla
 anille
 anillo
-animal
 animal
 animam
 animan
@@ -2151,7 +2110,6 @@ anolen
 anoles
 anolis
 anomia
-anomia
 anomie
 anopia
 anorak
@@ -2167,7 +2125,6 @@ anotar
 anotas
 anoten
 anotes
-anoxia
 anoxia
 anoxic
 anquea
@@ -2250,7 +2207,6 @@ aoveis
 apacer
 apacha
 apache
-apache
 apacho
 apagan
 apagar
@@ -2324,7 +2280,6 @@ apeldo
 apelen
 apeles
 apella
-apella
 apelle
 apello
 apenan
@@ -2341,7 +2296,6 @@ aperan
 aperar
 aperas
 apercu
-aperea
 aperea
 aperen
 aperes
@@ -2363,7 +2317,6 @@ apiana
 apiane
 apiano
 apiary
-apical
 apical
 apidae
 apiece
@@ -2523,18 +2476,15 @@ aquivo
 araban
 arabas
 arabia
-arabia
 arabic
 arabio
 arabis
-arable
 arable
 araceo
 arador
 aradro
 aragon
 arales
-aralia
 aralia
 arameo
 aramio
@@ -2567,7 +2517,6 @@ arbole
 arbolo
 arcaba
 arcada
-arcade
 arcade
 arcado
 arcais
@@ -2622,9 +2571,7 @@ arenco
 arenen
 arenes
 arenga
-arenga
 arengo
-areola
 areola
 aresta
 arfaba
@@ -2643,7 +2590,6 @@ argano
 argaya
 argaye
 argayo
-argent
 argent
 argila
 argive
@@ -2664,7 +2610,6 @@ aricas
 aridez
 arieta
 ariete
-ariete
 arieto
 aright
 ariled
@@ -2678,7 +2623,6 @@ arique
 arisca
 arisco
 arista
-arista
 arlaba
 arlado
 arlais
@@ -2689,7 +2633,6 @@ arleis
 arlota
 arlote
 armaba
-armada
 armada
 armado
 armais
@@ -2708,7 +2651,6 @@ armlet
 armory
 armpit
 arnadi
-arnica
 arnica
 aroman
 aromar
@@ -2753,7 +2695,6 @@ arraso
 arrate
 arrean
 arrear
-arrear
 arreas
 arreci
 arredo
@@ -2792,7 +2733,6 @@ arriza
 arrizo
 arroaz
 arroba
-arroba
 arrobe
 arrobo
 arroga
@@ -2813,7 +2753,6 @@ arrows
 arrowy
 arroya
 arroye
-arroyo
 arroyo
 arruan
 arruar
@@ -3034,7 +2973,6 @@ aspick
 aspide
 aspira
 aspire
-aspire
 aspiro
 asquea
 asquee
@@ -3058,7 +2996,6 @@ astato
 astern
 astero
 asthma
-astral
 astral
 astray
 astute
@@ -3155,7 +3092,6 @@ atatay
 atavia
 atavie
 atavio
-ataxia
 ataxia
 ataxic
 atecen
@@ -3273,7 +3209,6 @@ atolon
 atomic
 atomir
 atonal
-atonal
 atonar
 atonda
 atonde
@@ -3320,7 +3255,6 @@ atrojo
 atrone
 atrono
 atropa
-atropa
 atrope
 atropo
 attach
@@ -3360,10 +3294,8 @@ atuses
 atutia
 auburn
 auctor
-auctor
 audile
 audire
-audita
 audita
 audite
 audito
@@ -3372,7 +3304,6 @@ augend
 augita
 augite
 augura
-augure
 augure
 auguro
 augury
@@ -3405,9 +3336,7 @@ aupeis
 aurero
 aurico
 auriga
-auriga
 aurist
-aurora
 aurora
 aurous
 austin
@@ -3447,7 +3376,6 @@ avanza
 avanzo
 avaram
 avarus
-avatar
 avatar
 avaunt
 avecen
@@ -3583,7 +3511,6 @@ azagon
 azague
 azahar
 azalea
-azalea
 azanca
 azaque
 azaran
@@ -3635,7 +3562,6 @@ azoran
 azorar
 azoras
 azoren
-azores
 azores
 azorra
 azorre
@@ -3724,7 +3650,6 @@ balaba
 balada
 balado
 balais
-balais
 balara
 balare
 balase
@@ -3735,7 +3660,6 @@ baldly
 balean
 balear
 baleas
-baleen
 baleen
 balees
 baleis
@@ -3820,7 +3744,6 @@ barloo
 barney
 barong
 barony
-barque
 barque
 barrar
 barraz
@@ -4444,7 +4367,6 @@ brigas
 bright
 brigit
 brigue
-brigue
 brimos
 briola
 briole
@@ -4460,10 +4382,8 @@ broche
 brocho
 broder
 brogan
-brogan
 brogar
 brogas
-brogue
 brogue
 brojal
 brojin
@@ -4477,7 +4397,6 @@ bromes
 bromic
 bromus
 bronca
-bronco
 bronco
 bronze
 brooch
@@ -4675,10 +4594,8 @@ cabada
 cabado
 cabais
 cabala
-cabala
 cabale
 cabalo
-cabana
 cabana
 cabane
 cabano
@@ -4818,7 +4735,6 @@ capers
 capful
 capice
 capite
-capite
 capiti
 capiza
 capizo
@@ -4844,7 +4760,6 @@ cardia
 carean
 carear
 careas
-careen
 careen
 career
 carees
@@ -5123,7 +5038,6 @@ chante
 chanto
 chapel
 chaque
-chaque
 charan
 charar
 charas
@@ -5199,7 +5113,6 @@ chitty
 chivan
 chivas
 chiven
-chives
 chives
 chocan
 chocar
@@ -5301,7 +5214,6 @@ cistus
 citara
 cither
 cities
-citron
 citron
 citrus
 civics
@@ -5496,7 +5408,6 @@ colite
 colito
 collan
 collar
-collar
 collas
 collen
 colles
@@ -5544,7 +5455,6 @@ comply
 compos
 compte
 conatu
-concha
 concha
 conche
 concho
@@ -5633,7 +5543,6 @@ corker
 cornar
 cornas
 cornea
-cornea
 corned
 cornee
 corneo
@@ -5656,9 +5565,7 @@ corset
 cortan
 cortar
 cortas
-cortas
 corten
-cortes
 cortes
 cortex
 corvan
@@ -6368,11 +6275,8 @@ divert
 divest
 divide
 divina
-divina
-divine
 divine
 diving
-divino
 divino
 divoce
 dixies
@@ -6410,7 +6314,6 @@ doceno
 docent
 docila
 docile
-docile
 docilo
 docked
 docket
@@ -6431,7 +6334,6 @@ dolman
 dolmas
 dolmen
 dolora
-dolore
 dolore
 doloro
 dolour
@@ -6465,7 +6367,6 @@ doquet
 doquin
 doraba
 dorado
-dorado
 dorais
 dorara
 dorare
@@ -6476,7 +6377,6 @@ dorian
 dormer
 dormia
 dormie
-dormir
 dormir
 dormis
 dornan
@@ -6664,7 +6564,6 @@ durais
 durbar
 duress
 durham
-durian
 durian
 durias
 durido
@@ -7092,7 +6991,6 @@ felpes
 felted
 female
 femina
-femina
 femine
 femino
 fenced
@@ -7132,7 +7030,6 @@ fetter
 fettle
 feudal
 ffaire
-fiance
 fiance
 fianza
 fianzo
@@ -7213,11 +7110,9 @@ fipple
 firing
 firkin
 firman
-firman
 firmar
 firmas
 firmen
-firmes
 firmes
 firmly
 firola
@@ -7475,7 +7370,6 @@ frivol
 frolic
 fronta
 fronte
-fronte
 fronti
 fronto
 frosty
@@ -7540,7 +7434,6 @@ furore
 furred
 furrow
 fusion
-fusion
 fustee
 fustie
 futile
@@ -7578,7 +7471,6 @@ galega
 galena
 galera
 galere
-galere
 galero
 galiot
 galium
@@ -7589,7 +7481,6 @@ gallen
 galles
 galley
 gallic
-gallon
 gallon
 gallop
 gallus
@@ -7646,13 +7537,11 @@ garlic
 garner
 garnet
 garran
-garran
 garrar
 garras
 garren
 garres
 garret
-garron
 garron
 garter
 garuda
@@ -7674,8 +7563,6 @@ gatiza
 gatizo
 gaucha
 gauche
-gauche
-gaucho
 gaucho
 gauger
 gavial
@@ -7885,7 +7772,6 @@ govern
 gowned
 gracen
 graces
-graces
 gracia
 gracie
 gracio
@@ -7907,7 +7793,6 @@ gramen
 grames
 granda
 grande
-grande
 grando
 grands
 grange
@@ -7927,9 +7812,7 @@ gravar
 gravas
 gravel
 graven
-graven
 graver
-graves
 graves
 gravia
 gravie
@@ -7984,11 +7867,9 @@ griffo
 grigri
 grilla
 grille
-grille
 grillo
 grimly
 gringa
-gringo
 gringo
 gripan
 gripar
@@ -8070,7 +7951,6 @@ guapey
 guapie
 guaran
 guaras
-guarda
 guarda
 guarde
 guardo
@@ -8639,7 +8519,6 @@ indeed
 indene
 indent
 indian
-indian
 indias
 indice
 indict
@@ -9132,7 +9011,6 @@ lamedh
 lamely
 lament
 lamina
-lamina
 lamium
 lammas
 lampan
@@ -9185,7 +9063,6 @@ larman
 larmar
 larmas
 larmen
-larmes
 larmes
 laroza
 larrea
@@ -9370,7 +9247,6 @@ legare
 legase
 legate
 legato
-legato
 legend
 legged
 legion
@@ -9427,7 +9303,6 @@ leonar
 leonas
 leonem
 leonen
-leones
 leones
 lepato
 lepore
@@ -9675,11 +9550,9 @@ lindan
 lindar
 lindas
 linden
-linden
 lindes
 lineal
 linean
-linear
 linear
 lineas
 lineen
@@ -9727,7 +9600,6 @@ listar
 listas
 listed
 listel
-listen
 listen
 lister
 listes
@@ -9942,31 +9814,6 @@ lpiste
 lquila
 lquile
 lquilo
-ltaico
-ltamia
-ltanez
-ltavoz
-lteaba
-lteado
-lteais
-lteara
-lteare
-ltease
-lteeis
-lteran
-lterar
-lteras
-lterca
-lterco
-lteren
-lteres
-lterna
-lterne
-lterno
-ltillo
-ltitud
-ltivar
-ltivez
 luanda
 lubber
 lubiar
@@ -9986,7 +9833,6 @@ lucite
 lucius
 ludais
 ludere
-ludian
 ludian
 ludias
 ludido
@@ -10245,7 +10091,6 @@ maputo
 maquis
 maraba
 maraco
-maraco
 marado
 marais
 maraje
@@ -10275,12 +10120,9 @@ margor
 margue
 marial
 marian
-marian
 marias
 marice
 marina
-marina
-marine
 marine
 marino
 marish
@@ -10297,7 +10139,6 @@ maroma
 marome
 maromo
 maroon
-marque
 marque
 marran
 marrar
@@ -10449,7 +10290,6 @@ membra
 memoir
 memory
 menace
-menace
 menage
 menaza
 menazo
@@ -10499,7 +10339,6 @@ merida
 merino
 merita
 merite
-merito
 merito
 meriza
 merizo
@@ -10594,7 +10433,6 @@ minium
 minnow
 minoan
 minora
-minore
 minore
 minoro
 minuet
@@ -10697,7 +10535,6 @@ mollar
 mollas
 mollen
 molles
-molles
 mollia
 mollie
 moloch
@@ -10741,7 +10578,6 @@ montar
 montas
 montee
 monten
-montes
 montes
 months
 montia
@@ -10800,7 +10636,6 @@ moscas
 moscow
 moslem
 mosque
-mosque
 mostre
 mostro
 moteta
@@ -10828,7 +10663,6 @@ movais
 moveis
 movent
 movera
-movere
 movere
 movian
 movias
@@ -11301,7 +11135,6 @@ nights
 nihila
 nihile
 nihilo
-nihilo
 nilaba
 nilado
 nilais
@@ -11403,7 +11236,6 @@ norare
 norase
 nordic
 noreis
-normal
 normal
 norman
 nornal
@@ -11521,7 +11353,6 @@ numero
 numida
 nuncia
 nuncie
-nuncio
 nuncio
 nuphar
 nuptse
@@ -11822,7 +11653,6 @@ panare
 panase
 pancle
 pandan
-pandar
 pandar
 pandas
 panden
@@ -12152,7 +11982,6 @@ petard
 petece
 peteci
 petite
-petite
 petito
 petrel
 pewter
@@ -12336,8 +12165,6 @@ placas
 placed
 placen
 placer
-placer
-places
 places
 placet
 placia
@@ -12351,13 +12178,11 @@ plaice
 plaint
 planan
 planar
-planar
 planas
 planen
 planes
 planet
 plants
-plaque
 plaque
 plashy
 plasia
@@ -12630,7 +12455,6 @@ preset
 presta
 preste
 presto
-presto
 pretar
 pretas
 pretio
@@ -12863,7 +12687,6 @@ queste
 quiche
 quidam
 quidem
-quieta
 quieta
 quiete
 quieto
@@ -13350,7 +13173,6 @@ risaro
 riscan
 riscas
 rising
-risque
 risque
 ristin
 riston
@@ -14112,14 +13934,12 @@ serbia
 serein
 serena
 serene
-serene
 sereno
 serger
 serial
 serian
 serias
 serien
-series
 series
 serine
 sermon
@@ -14164,7 +13984,6 @@ settle
 sevens
 severa
 severe
-severe
 severo
 severs
 sewage
@@ -14174,7 +13993,6 @@ sexism
 sexist
 sextet
 sexton
-sexual
 sexual
 seyyid
 sfalta
@@ -14290,7 +14108,6 @@ sieren
 sieres
 sieron
 sierra
-sierra
 sierre
 sierro
 siesen
@@ -14328,7 +14145,6 @@ silvia
 simeon
 simian
 simila
-simile
 simile
 similo
 simmer
@@ -14486,7 +14302,6 @@ sobino
 socage
 soccer
 social
-social
 socian
 sociar
 socias
@@ -14521,7 +14336,6 @@ solapo
 solara
 solare
 solase
-soldan
 soldan
 soldar
 soldas
@@ -14583,7 +14397,6 @@ sordan
 sordar
 sordas
 sorden
-sordes
 sordes
 sordet
 sordid
@@ -14780,7 +14593,6 @@ sticky
 stifle
 stigma
 stilla
-stille
 stille
 stillo
 stilly
@@ -14999,7 +14811,6 @@ tablar
 tablas
 tablen
 tables
-tables
 tablet
 tabora
 tabret
@@ -15208,7 +15019,6 @@ tenant
 tenaza
 tenazo
 tendar
-tender
 tender
 tendes
 tendia
@@ -15659,11 +15469,9 @@ trance
 tranco
 transi
 trapan
-trapan
 trapar
 trapas
 trapen
-trapes
 trapes
 traque
 trasan
@@ -15722,7 +15530,6 @@ tripod
 tripos
 trista
 triste
-triste
 tristo
 triton
 triump
@@ -15731,7 +15538,6 @@ trivet
 trivia
 trocar
 trocha
-trocha
 troche
 trocho
 trofia
@@ -15739,7 +15545,6 @@ trofie
 trofio
 trogon
 troika
-trojan
 trojan
 trojar
 trojas
@@ -15924,7 +15729,6 @@ umlaut
 umpire
 unaban
 unabas
-unable
 unable
 unaged
 unamos
@@ -16169,7 +15973,6 @@ valuas
 valued
 valuen
 valuer
-values
 values
 valved
 vamose
