@@ -1,13 +1,15 @@
 #!/bin/env python3
 import os as OS
-LANGUAGES = ["en","es"]
+impory sys as SYS
 
-def main():
-    word_sets = categorize()
+LANGUAGES = OS.listdir('../docs')
 
-def categorize():
+def categorize(use_langs):
     word_sets = {}
-    for lang in LANGUAGES:
+    for lang in use_langs:
+        if lang not in LANGUAGES:
+            print(f'Dictionary for {lang} is not available. Skipping...', file=SYS.stderr)
+            continue
         with open(f"{lang}/full") as lang_file:
             for word in lang_file.readlines():
                 word_clean = cleanup_word(word)
