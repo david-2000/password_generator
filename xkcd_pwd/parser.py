@@ -1,35 +1,45 @@
 #!/bin/env python3
 import os as OS
-impory sys as SYS
+import sys as SYS
+import parser as PARSER
 
-LANGUAGES = OS.listdir('../docs')
+LANGUAGES = set(OS.listdir('../docs'))
 
-def categorize(use_langs):
-    word_sets = {}
-    for lang in use_langs:
-        if lang not in LANGUAGES:
-            print(f'Dictionary for {lang} is not available. Skipping...', file=SYS.stderr)
-            continue
-        with open(f"{lang}/full") as lang_file:
-            for word in lang_file.readlines():
-                word_clean = cleanup_word(word)
-                word_len = len(word_clean)
-                if word_len not in word_sets:
-                    word_sets[word_len] = set()
-                word_sets[word_len].add(word_clean)
-    return word_sets
+class Words:
+    def __init__(self, use_langs=LANGUAGES):
+        self.langs = set()
+        self.l_range = (4,10)
+        self.word_sets = {}
+        if isinstance(use_langs, str):
+            use_langs = [ use_langs ]
+        self.word_sets = {}
+        for lang in use_langs:
+            if lang not in LANGUAGES:
+                print(f'Dictionary for {lang} is not available. Skipping...', file=SYS.stderr)
+                continue
+            self.langs.append(lang)
+            with open(f"../docs/{lang}") as lang_file:
+                for word in lang_file.readlines():
+                    word_clean = word.strip().lower()
+                    word_len = len(word_clean)
+                    if (lang,word_len) not in self.word_sets:
+                        self.word_sets[(lang, word_len)] = set()
+                    self.word_sets[(lang,word_len)].add(word_clean)
+    
+    def compile_set(self, lang=None , min_len=4, max_len=10):
+        if lang == None:
+            lang = self.langs
+        compiled_list = []
+        if isinstance(lang,str):
+            lang = [lang]
+        for i in lang:
+            if i not in self.langs:
+                continue
+            for j in range(min_len, max_len+1):
+                if j < self.l_range[0] or j > self.l_range[1]:
+                    continue
+                compiled_list.extend(self.word_sets[(i,j)])
+        return compiled_list
 
 
-def cleanup_word(word):
-    word = word.lower().strip()
-    word = word.replace('\u00e1', 'a') # Unicode for accented a [á]
-    word = word.replace('\u00e9', 'e') # Unicode for accented e [é]
-    word = word.replace('\u00ed', 'i') # Unicode for accented i [í]
-    word = word.replace('\u00f3', 'o') # Unicode for accented o [ó]
-    word = word.replace('\u00fa', 'u') # Unicode for accented u [ú]
-    word = word.replace('\u00fc', 'u') # Unicode for umlaut-u [ü]
-    word = word.replace('\u00f1', 'n') # Unicode for tilded-n [ñ]
-    return word
-
-if __name__ == '__main__':
-    main()
+WORDS = PARSER.Words()
