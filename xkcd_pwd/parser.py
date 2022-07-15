@@ -17,7 +17,7 @@ class Words:
             if lang not in LANGUAGES:
                 print(f'Dictionary for {lang} is not available. Skipping...', file=SYS.stderr)
                 continue
-            self.langs.append(lang)
+            self.langs.add(lang)
             with open(f"../docs/{lang}") as lang_file:
                 for word in lang_file.readlines():
                     word_clean = word.strip().lower()
@@ -26,12 +26,14 @@ class Words:
                         self.word_sets[(lang, word_len)] = set()
                     self.word_sets[(lang,word_len)].add(word_clean)
     
-    def compile_set(self, lang=None , min_len=4, max_len=10):
+    def compile_words(self, lang=None , min_len=4, max_len=10):
         if lang == None:
             lang = self.langs
+        min_len = 4 if min_len < 4 else min_len
+        max_len = 10 if max_len > 10 else max_len
         compiled_list = []
         if isinstance(lang,str):
-            lang = [lang]
+            lang = set([lang])
         for i in lang:
             if i not in self.langs:
                 continue
